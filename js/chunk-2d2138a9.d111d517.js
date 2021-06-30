@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d2138a9"],{acb3:function(e,n,a){"use strict";a.r(n);var t=a("ab5b"),c=a.n(t),p=a("52b4"),i=a("980a"),o=a.n(i),b=a("6254");n.default=function(){return c.a.createElement(b.default,{type:"500",desc:o.a.get("app.exception.description.500"),linkElement:p.Link,backText:o.a.get("app.exception.back")})}}}]);

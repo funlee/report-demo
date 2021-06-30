@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0cb663"],{"4a00":function(e,n,a){"use strict";a.r(n);var t=a("ab5b"),u=a.n(t);n.default=function(){return u.a.createElement("ul",null,[{name:"hello",key:"1"},{name:"world",key:"2"},{name:"!",key:"3"}].map((function(e){return u.a.createElement("li",{key:e.key},e.name)})))}}}]);

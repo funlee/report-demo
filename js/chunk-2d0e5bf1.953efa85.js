@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0e5bf1"],{9697:function(e,n,t){"use strict";t.r(n);var a=t("ab5b"),u=t.n(a);n.default=function(){var e=Object(a.useState)(0),n=e[0],t=e[1];return u.a.createElement("div",null,u.a.createElement("h1",null,n),u.a.createElement("button",{onClick:function(){return t(n+1)}},"add count"))}}}]);

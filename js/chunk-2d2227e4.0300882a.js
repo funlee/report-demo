@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d2227e4"],{cf9d:function(t,n,e){"use strict";e.r(n);var a=e("ab5b"),r=e.n(a),c=e("a1f7"),i=e("980a"),o=e.n(i);n.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(c.a,{variant:"h6",gutterBottom:!0},o.a.get("setting.interaction.settings")))}}}]);

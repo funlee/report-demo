@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0e6344"],{"986e":function(n,t,e){"use strict";e.r(t),e.d(t,"useCopyPaste",(function(){return c}));var u=e("ab5b"),r=e("4b24");function c(n){var t=Object(u.useState)(n),e=t[0],c=t[1];return[e,function(n){return n&&c(n)},function(){return!!e&&Object(r.a)(e)}]}}}]);

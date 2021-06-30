@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-6e5afb85"],{"1ad1":function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return p}));var a=n("ab5b"),u=n.n(a),c=n("8b26"),o=n.n(c);function p(){return u.a.createElement("div",{className:o.a.template},"模板商城")}},"8b26":function(e,t,n){e.exports={template:"style-module_template_2hf1_"}}}]);

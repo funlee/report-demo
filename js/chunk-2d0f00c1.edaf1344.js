@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0f00c1"],{"9b68":function(t,n,a){"use strict";a.r(n);var e=a("ab5b"),i=a.n(e),r=a("a1f7"),c=a("980a"),o=a.n(c);n.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(r.a,{variant:"h6",gutterBottom:!0},o.a.get("setting.animation.settings")))}}}]);

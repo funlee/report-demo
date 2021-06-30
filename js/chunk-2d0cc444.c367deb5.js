@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0cc444"],{"4ccb":function(n,e,c){"use strict";c.r(e);var t=c("ab5b"),a=c.n(t),o=c("8776");function r(){return a.a.createElement("div",null,"StyleSet")}e.default=Object(o.smart)((function(n){return{BEJson:n.page.BEJson,canvasType:n.editor.canvasType}}))(Object(t.memo)(r))}}]);
